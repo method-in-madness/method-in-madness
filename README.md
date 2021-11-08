@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @method-in-madness
+- 👀 I’m interested in Reactive Systems, Microservices, Machine Learning, Blockchain and Full Stack Web Development
+- 🌱 I’m currently learning React.js and brushing up on DSA
